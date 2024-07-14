@@ -29,24 +29,24 @@ Sales Data: The dataset used for this analysis is the "Sales_data.xlsx" file, Co
 ### Data Cleaning
 ---
 In the initial preparation phase, We performed following tasks:
-1. Data loading and inspection.
-2. Handelling missing values.
-3. Data cleaning and formatting.
-4. 
+1. Merging Data from other sheets.
+2. Data loading and inspection.
+3. Looking for missing values.
+4. Data cleaning and formatting.
    
 ### Explotary Data Analysis 
 ---
 EDA involved exploring the sales data to answer questions such as:
-- What is the sales trend?
-- Which are the top-performing states?
-- What is the most orderd platform?
+- What is the Total sales trend overtime?
+- Which is the top-performing Country?
+- What is the Coffee Roast type that sold most?
 
 ### Data Analysis 
 ---
 - Utilized XLOOKUP,Multiple IF Functions and advanced Excel functions for data cleaning.
 - Ensured data accuracy and consistency for reliable analysis.
 - Created pivot tables for data analysis.
-- Developed an interactive dashboard with pivot charts and slicers.
+- Developed an interactive dashboard with pivot charts and slicers also added a timeline.
 
 ### Results
 ---
