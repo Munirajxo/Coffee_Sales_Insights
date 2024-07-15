@@ -15,6 +15,9 @@
 
 I analyzed coffee sales data for the United States, Ireland, and the United Kingdom from 2019 to 2021 to gain insights into trends and streamline reporting. Utilizing advanced Excel functions, including XLOOKUP, multiple IF functions, and various formatting techniques, I meticulously cleaned and visualized the data. Subsequently, I developed an interactive dashboard incorporating pivot charts, slicers, and a timeline feature. This dashboard provides dynamic data exploration and real-time insights, enhancing reporting efficiency and facilitating data-driven decision-making for stakeholders.
 
+
+![coffee_sales_dashboard](https://github.com/user-attachments/assets/f7a6d0f4-e8c5-4ee7-98ae-d5d4e7ab4741)
+
 ---
 
 
