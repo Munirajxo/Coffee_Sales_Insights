@@ -1,5 +1,5 @@
 # Coffee_Sales_Insights
-# Comprehensive Apparel sales Data Analysis and Visualization Project 
+# Coffee Sales Data: Analysis and Visualization
 
 ## Table of Contents 
 - [Project Overview](#project-overview)
@@ -50,12 +50,12 @@ EDA involved exploring the sales data to answer questions such as:
 
 ### Results
 ---
-- Women accounted for 64% of total sales, with men comprising 36%.
-- Monthly orders exhibited a steady decline throughout the year, hitting a low by year-end after an initial rise.
-- Top 5 sales regions were identified, indicating regional preferences and market dominance.
-- Adults, particularly those in the age range 30-49, made the highest number of purchases compared to younger and senior demographics.
-
+- Among the three countries, the US had the highest sales, while the UK had the lowest sales.
+- Among the three types of roasted coffee, the light roast had the highest sales.
+- Additionally, I identified the top 5 customers for each type of coffee, each coffee size, and overall.
+- Excelsa had the highest sales among the various coffee types.
 ### Recommendations
 ---
-- Utilize historical sales data to forecast future trends and plan marketing strategies and inventory purchases accordingly. 
-- This proactive approach can help mitigate the impact of seasonal fluctuations in demand.
+- Focus on promoting Excelsa coffee due to its highest sales.
+- Explore opportunities to increase sales in the UK by understanding factors contributing to lower sales compared to other countries.
+- Continue leveraging data analytics for ongoing monitoring and decision-making to optimize sales and customer satisfaction
